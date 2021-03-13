@@ -88,6 +88,4 @@ f"Winning Percentage: {winning_percentage:.1f}%\n"
 f"-------------------------\n")
 print(winning_candidate_summary)
 
-    # Print the candidate name and percentage of votes.
-    #print(f'{candidate_name}: recieved {vote_percentage:.1f}% of the vote.')
 
