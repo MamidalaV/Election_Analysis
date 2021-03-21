@@ -33,32 +33,38 @@
         - Diana DeGette with 73.8% of 272,892 votes
 
   ### - Final Results after the script has been built:
-  ![Results](resources/Terminal_Results.png)
+  ![Results](resources/Terminal_Results.png | width=100)
   
   
   ## Reusability
     - The script used for this analysis is attached below. 
     - This has been built to be used in any elections that will be conducted in the future.
-   [PyPoll.py](Election_Analysis/PyPoll.py)
+   [PyPoll.py](Election_Analysis/PyPoll.py | width=100)
     
    ### - Here are some guidelines to reuse this script:
     - This query points to a file that is saved in the resources folder with name: "election_results.csv". 
     - In order to resuse this for another election, newelection data needs to be saved here with the same name.
     - It is also important that the columns of the new file are the same as the old one.
     
-  ![File Location](resources/file_path.png)
+  ![File Location](resources/file_path.png | width=100)
   
     - After updating the path and running the query, the first for loop starts: 
         1. Counting the total votes casted in the election.
         2. Capturing the names of the candidates for whom votes were casted.
         3. Capturing the county names for which elections were held.
 
-  ![For Loop](resources/for_loop_1.png)
+  ![For Loop1](resources/for_loop_1.png | width=100)
 
     - At this point, total votes casted and votes for each county will be printed to a txt file on the 'Analysis' folder.
   
-  ![print to txt](resources/save_to_txt.png)
+  ![print to txt](resources/save_to_txt.png | width=100)
   
     - The next for loop is written to retreive county names, votes casted for each county and percentage of votes from the overall votes.
-    - This information is then printed to the same txt file right below the previous analysis.
-    - 
+    - Here, the county wil largest number of vote is printed to the same txt file right below the previous analysis.
+  
+  ![For Loop2](resources/for_loop_2.png | width=100)
+  
+    - The final for loop retrieves the votes for each candidate and saves them to the txt file along with the percentage for each candidate.
+    - And the final results of the election is printed at the end of the txt file, along with the vote count and percentage.
+
+  ![for loop3](resources/for_loop_3.png | width=100)
