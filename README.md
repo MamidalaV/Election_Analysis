@@ -51,7 +51,8 @@
       to match the candidate name and county name columns. (Editing Example #1)
   <img src=resources/examples.png width="50%">
 
-    - In a situation where the elections are held for state and not county, edit the word "county" to "state" or anything that is deemeed relevant. 
+    - In a situation where the elections are held for state and not county, edit the word "county" to "state" or anything 
+      that is deemeed relevant in the entire query. 
       (Editing Example #2)
       
   <img src=resources/examples2.png width="50%">
@@ -68,12 +69,14 @@
   
   <img src=resources/save_to_txt.png width="70%">
   
-    - The next for loop is written to retreive county names from earlier loop, votes casted for each county and percentage of votes from the overall votes.
+    - The next for loop is written to retreive county names from earlier loop, votes casted for each county and percentage 
+      of votes from the overall votes.
     - Here, the county wil largest number of vote is printed to the same txt file right below the previous analysis.
   
   <img src=resources/for_loop_2.png width="70%">
   
-    - The final for loop retrieves the votes for each candidate and saves them to the txt file along with the percentage for each candidate.
+    - The final for loop retrieves the votes for each candidate and saves them to the txt file along with the percentage 
+      for each candidate.
     - And the final results of the election is printed at the end of the txt file, along with the vote count and percentage.
 
   <img src=resources/for_loop_3.png width="70%">
