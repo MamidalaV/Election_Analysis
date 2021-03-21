@@ -53,7 +53,7 @@
         2. Capturing the names of the candidates for whom votes were casted.
         3. Capturing the county names for which elections were held.
 
-  ![For Loop](resources/for_loop_2.png)
+  ![For Loop](resources/for_loop_1.png)
 
     - At this point, total votes casted and votes for each county will be printed to a txt file on the 'Analysis' folder.
   
