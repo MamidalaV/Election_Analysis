@@ -42,7 +42,7 @@
     -  Denver county is the Largest County Turnout
  - Candidate Percentage of Votes:
     - Charles Casper Stockham candidate has 23.0% total percentage with a total votes of ***85,213***
-    - Diana DeGette candidate has the 73.8 total percentage with a total votes of ***272,892***
+    - Diana DeGette candidate has the 73.8% total percentage with a total votes of ***272,892***
     - Raymon Anthony Doane candidate has 3.1% total percentage with a total votes of ***11,606***
  - Election Results:
     -  Diana DeGette won the election, with a total votes of ***272,892***
