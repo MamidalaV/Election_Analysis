@@ -48,8 +48,13 @@
   <img src=resources/file_path.png width="70%">
   
     - In a situation where the columns are not the same, the numbers within the box brackets (indexing) must be updated 
-      to match the candidate name and county name columns. 
+      to match the candidate name and county name columns. (Editing Example #1)
   <img src=resources/examples.png width="50%">
+
+    - In a situation where the elections are held for state and not county, edit the word "county" to "state" or anything that is deemeed relevant. 
+      (Editing Example #2)
+      
+  <img src=resources/examples2.png width="50%">
 
    ## What actually happens:
     - After updating the path and running the query, the first for loop starts: 
