@@ -31,9 +31,6 @@
         - Denver
         - Arapahoe
 
-  ### - Winner of the election:
-        - Diana DeGette with 73.8% of votes, which is 272,892 votes.
-
    - **Total Votes Cast in this election were _369,711_**
  - **County Votes:**
     - Jefferson county has 10.5% total percentage with a total votes of ***38,855***
