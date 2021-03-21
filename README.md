@@ -33,5 +33,5 @@
         - Diana DeGette with 73.8% of 272,892 votes
 
   ### - Final Results after the script has been built:
-      ![Results](resources/Terminal_Results.png)
+  ![Results](resources/Terminal_Results.png)
       
